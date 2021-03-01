@@ -18,7 +18,7 @@ body {
   background-color: #19a2ae;
   height: 100vh;
   background-image: url("images/bg-pattern-top.svg"),
-    url("imagess/bg-pattern-bottom.svg");
+    url("images/bg-pattern-bottom.svg");
   background-position: top left, bottom right;
   background-size: 40%, 40%;
   background-repeat: no-repeat, no-repeat;
